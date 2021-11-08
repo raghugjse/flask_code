@@ -1,0 +1,5 @@
+# 1.New  -> File -> Enter
+# web: gunicorn app:app => Paste this code in empty file of 'Procfile' file. (without any extension)
+
+# 2.pip freeze > requirements.txt => This command generates a 'requirements.txt' file.
+

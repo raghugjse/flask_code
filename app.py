@@ -12,3 +12,13 @@ def my_form_post():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
+#========== Script Commands ============
+#1. Ctrl + Shift + F10 => Run the script
+#2. Ctrl + f => find
+#3. Ctrl + F2 => Stop the script
+
+#========== Tab Navigations ============
+# 1.Move To Right Top => Top Right Side
+# 2.Bottom Right => Bottom Right Side
+#=======================================
